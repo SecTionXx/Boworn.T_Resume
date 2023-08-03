@@ -31,19 +31,19 @@ export const AboutMeData = [
 export const experienceData = [
   {
     position: "Construction Project Manager — G.M.E.Co.,:Ltd.",
-    year: "Jun. 2014 - Sept. 2017",
+    year: "2019 - 2023",
     detail:
       "My role involved developing and managing detailed project schedules and work plans, as well as providing consistent updates to various stakeholders about project strategy, adjustments, and progress. I utilized industry best practices, techniques, and standards throughout all stages of project execution. I actively monitored project progress and made necessary adjustments to ensure efficiency and effectiveness. By measuring project performance, I was able to identify areas for improvement and implement changes as needed. A key aspect of my role was ensuring that all projects were delivered on-time, within scope, and within budget. I managed all aspects of the construction process, which included hiring subcontractors and working with engineers, architects, and vendors. I prioritized safety and compliance, ensuring these measures were adhered to at all times",
   },
   {
     position: "Project Engineer - McEnergy Evolution .Co.,Ltd.",
-    year: "Jun. 2014 - Sept. 2017",
+    year: "2017 - 2019",
     detail:
       "My primary responsibilities included managing multiple projects simultaneously, demonstrating my ability to effectively multitask and maintain strong attention to detail. I oversaw the installation of chillers, cooling towers, and air conditioning systems, ensuring all tasks were completed on time and within scope. This role required a deep understanding of these systems, as well as strong project management skills. I was responsible for coordinating with various teams, troubleshooting issues, and ensuring the successful completion of each project.",
   },
   {
     position: "Site Engineer — Practical Engineer.Co.,Ltd.",
-    year: "Jun. 2014 - Sept. 2017",
+    year: "2014 - 2017",
     detail:
       "As a Site Engineer, my primary responsibility was overseeing the installation of electrical systems. I managed all on-site aspects of these projects, ensuring that each installation was carried out in accordance with project specifications, safety standards, and local electrical codes. My tasks included coordinating with various stakeholders, such as clients, contractors, and team members, to ensure that project objectives were met on time and within budget. I frequently resolved on-site issues and made critical decisions affecting the progress and success of the projects. This role required a strong technical understanding of electrical systems, exceptional problem-solving skills, and the ability to work effectively under pressure.    ",
   },
