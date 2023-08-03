@@ -1,8 +1,8 @@
 import React from "react";
 import "./tailwind.css";
-import "./Img/Profile_img.jpg";
 
 function Header({ imgSrc, designerTitle, firstName, lastName }) {
+  const profileImg = "./Img/Profile_img.jpg";
   return (
     <header className="header h-fit bg-[#9E8C6C]/40 ">
       <div

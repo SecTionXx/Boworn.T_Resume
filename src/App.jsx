@@ -7,16 +7,15 @@ import Resume from "./component/Resume";
 import Footer from "./component/Footer";
 
 function App() {
-  const [count, setCount] = useState(0);
   const data = [
     { header: "Header 1", content: "Content 1" },
     { header: "Header 2", content: "Content 2" },
   ];
-
+  const imgPath = "src/component/Img/Profile_img.jpg";
   return (
     <div className="">
       <Header
-        imgSrc="src\component\Img\Profile_img.jpg"
+        imgSrc={imgPath}
         designerTitle="DESIGNER / DEVELOPER"
         firstName="Boworn"
         lastName="Treesinsub"
