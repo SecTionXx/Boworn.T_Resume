@@ -23,7 +23,7 @@ function Resume() {
         className=" w-2/5 flex flex-col flex-wrap justify-between items-center sm:w-screen xs:w-screen 
        "
       >
-        <div className=" w-[350px]  sm:w-5/6 sm:mb-[60px] sm:mt-[25px] xs:w-[90%]">
+        <div className=" w-[350px]  sm:w-5/6 sm:mb-[60px] sm:mt-[25px] xs:w-[90%] xs:pb-[60px]">
           <div className=" Skellset_Header font-PT-Sans text-[#9E8C6C] font-[700] text-[18px] pb-[10px]">
             KEY SKILLS
           </div>
@@ -36,7 +36,7 @@ function Resume() {
           </div>
         </div>
 
-        <div className=" w-[350px]   sm:w-5/6 sm:mb-[60px] xs:w-[90%]">
+        <div className=" w-[350px]   sm:w-5/6 sm:mb-[60px] xs:w-[90%] xs:pb-[60px]">
           <div className="Skellset_Header  font-PT-Sans text-[#9E8C6C] font-[700] text-[18px] pb-[10px]">
             FRONTEND STACK
           </div>
@@ -49,7 +49,7 @@ function Resume() {
           </div>
         </div>
 
-        <div className=" w-[350px]   sm:w-5/6 sm:mb-[60px] xs:w-[90%]">
+        <div className=" w-[350px]   sm:w-5/6 sm:mb-[60px] xs:w-[90%] xs:pb-[60px]">
           <div className="Skellset_Header  font-PT-Sans text-[#9E8C6C] font-[700] text-[18px] pb-[10px]">
             COMPUTER SKILL
           </div>
@@ -142,7 +142,7 @@ function Resume() {
               <div key={index}>
                 <div className="pb-[5px]">{data.degree}</div>
                 <div className="flex flex-row justify-between xs:flex-col">
-                  <div className="text-[black] font-PT-Sans font-[400]">
+                  <div className="text-[black] font-PT-Sans font-[400] pb-[5px]">
                     {data.univercity}
                   </div>
                   <div className="text-[black] font-PT-Sans font-[400] pb-[5px]">

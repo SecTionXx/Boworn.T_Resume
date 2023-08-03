@@ -25,7 +25,7 @@ export const computerSkillData = [
 ];
 
 export const AboutMeData = [
-  "Use this area to say something about yourself or describe your goals.  Tum dicere exorsus est cur verear, ne ad id omnia referri oporteat, ipsum per se ipsam voluptatem, quia consequuntur magni dolores eos, qui blanditiis praesentium voluptatum deleniti atque insitam in ea quid est eligendi optio, cumque nihil ut ipsi auctori huius disciplinae placet: constituam, quid.",
+  "As an experienced MEP engineer turned software web developer, I bring a unique perspective to the field. My strong problem-solving and analytical skills, honed in engineering, have proven invaluable in tackling complex coding and web design challenges. With a deep understanding of web development principles and a commitment to continuous learning, I'm adept at creating high-quality, efficient web solutions.",
 ];
 
 export const experienceData = [
