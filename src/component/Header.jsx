@@ -1,5 +1,6 @@
 import React from "react";
 import "./tailwind.css";
+import "./Img/Profile_img.jpg";
 
 function Header({ imgSrc, designerTitle, firstName, lastName }) {
   return (

@@ -1,4 +1,5 @@
 import React from "react";
+import "./logo/social_logo.png";
 
 function Footer() {
   return (
